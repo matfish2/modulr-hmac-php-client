@@ -5,11 +5,11 @@
   "require": {
     "php": ">=5.4.0",
     "nesbot/carbon": "~1.21",
-    "monolog/monolog": "1.*"
+    "monolog/monolog": "2.*"
   },
   "autoload": {
-    "psr-4" : {
-      "CrowdProperty\\ModulrHmacPhpClient\\" : "src"
+    "psr-4": {
+      "CrowdProperty\\ModulrHmacPhpClient\\": "src"
     }
   }
 }
